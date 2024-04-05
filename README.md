@@ -54,9 +54,8 @@ else:
 print("---------------------------------------------------------------")
 ```
 ## Output :
-![OP](OP1.png)
-![OP](OP2.png)
-![OP](OP3.png)
+![image](https://github.com/Ranjania2005/Single-server-infinite-capacity---Markov-Model/assets/151624950/3c5d85ab-efb6-4c33-9f98-fa5299f0e6ca)
+
 
 ## Result :
 The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
